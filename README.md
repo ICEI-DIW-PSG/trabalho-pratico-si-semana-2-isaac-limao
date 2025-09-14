@@ -3,9 +3,11 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Isaac de Oliveira Lima 
+- Matricula: 898044
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Imagem da tela do curriculum](public/Curriculo.png)
+
+

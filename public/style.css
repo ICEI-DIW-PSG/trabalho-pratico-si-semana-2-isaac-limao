@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #fafafa;
+    margin: 0 auto;
+    background-image: url('https://img.freepik.com/vetores-gratis/fundo-de-tecnologia-cibernetica_23-2148390330.jpg?t=st=1741046528~exp=1741050128~hmac=1e1aba698bd4d5dd705a2dc5144590fea56fac2f138da36b9352319557851268&w=1060');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+header img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.3rem;
+}
+
+
+nav {
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    font-size: 18px;
+    
+}
+
+
+
+
+section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #181212;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#sobre-mim,
+#experiencia {
+    width: 48%;
+    margin: 1%;
+    color: #181212;
+}
+
+#formacao,
+#contato {
+    width: 48%;
+    margin: 1%;
+    color: #181212;
+
+}
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 30px;
+    width: 100%;
+}
+
+li {
+    list-style: none;
+}
